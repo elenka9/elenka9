@@ -15,9 +15,9 @@ Welcome to my github - a place where I explore the magic of code and turn ideas 
   
 
 ### My Projects:
-- [Christmas Shop (HTML5&CSS3)](https://github.com/elenka9/Christmas-Shop)
-- [My favorite films (JS, React, Redux, Vite)](https://github.com/elenka9/FavFilms_RTK)
-- [ToDo List (JS, React, Redux, Vite)](https://github.com/elenka9/Todo-List)
+- [Christmas Shop)](https://github.com/elenka9/Christmas-Shop)
+- [My favorite films](https://github.com/elenka9/FavFilms_RTK)
+- [ToDo List)](https://github.com/elenka9/Todo-List)
 - find more in my pins
 
 ### Languages and Tools:
