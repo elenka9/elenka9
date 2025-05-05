@@ -4,7 +4,10 @@
 -->
 Welcome to my github - a place where I explore the magic of code and turn ideas into reality. <br> I am a QA Engeneer and I'm always curious about how things work and how to make them better.</br>
 
-### Here are some facts about me:
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE4NjRuMjF5YjA2OTZkcW13Mzh5bjVoYjJ5dHhuYmhoNWYzc21wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="360px"/>
+
+**Here are some facts about me:**
 
 - 👯 I’d love to collaborate on something cool.
 - 🔭 I’m currently fascinated by all things AI.
@@ -14,13 +17,13 @@ Welcome to my github - a place where I explore the magic of code and turn ideas 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elena-andrianova-qa/)
   
 
-### My Projects:
+**My Projects:**
 - [Christmas Shop](https://github.com/elenka9/Christmas-Shop)
 - [My favorite films](https://github.com/elenka9/FavFilms_RTK)
 - [ToDo List](https://github.com/elenka9/Todo-List)
 - find more in my pins
 
-### Languages and Tools:
+**Languages and Tools:**
 
 ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&style=social)&nbsp;&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-black?logo=swagger&style=social)&nbsp;&nbsp;
