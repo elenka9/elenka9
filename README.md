@@ -1,31 +1,26 @@
-## Hi there, I am Elena 👋
-
+## Hi there, I'm Elena 👋 
 <!--
-**elenka9/elenka9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href='https://www.linkedin.com/in/elena-andrianova-qa/'><img src = 'https://img.shields.io/badge/LinkedIn-2CA5E0?style=for-the-badge&logo=linkedin&logoColor'></a>
 -->
 Welcome to my github - a place where I explore the magic of code and turn ideas into reality. <br> I am a QA Engeneer and I'm always curious about how things work and how to make them better.</br>
 
-**Here are some facts about me:**
+### Here are some facts about me:
 
 - 👯 I’d love to collaborate on something cool.
 - 🔭 I’m currently fascinated by all things AI.
 - 💬 Ask me about frontend, testing, and let's discuss job search challenges.
 - 🌎 I can speak English, Italian and Russian
 - ⚡ Fun fact: I was a lawyer before.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elena-andrianova-qa/) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elena-andrianova-qa/)
+  
 
-**Languages and Tools:** 
+### My Projects:
+- [Christmas Shop (HTML5&CSS3)](https://github.com/elenka9/Christmas-Shop)
+- [My favorite films (JS, React, Redux, Vite)](https://github.com/elenka9/FavFilms_RTK)
+- [ToDo List (JS, React, Redux, Vite)](https://github.com/elenka9/Todo-List)
+- find more in my pins
+
+### Languages and Tools:
 
 ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&style=social)&nbsp;&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-black?logo=swagger&style=social)&nbsp;&nbsp;
