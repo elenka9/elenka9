@@ -18,10 +18,17 @@ Welcome to my github - a place where I explore the magic of code and turn ideas 
   
 
 **My Projects:**
+
+***Frontend***
 - [Christmas Shop](https://github.com/elenka9/Christmas-Shop) cool website
 - [My favorite films](https://github.com/elenka9/FavFilms_RTK) keep your personal list of moovie
 - [ToDo List](https://github.com/elenka9/Todo-List) small task manager app
 - [Help me,Lawyer](https://www.figma.com/proto/K7vFvJnc3WSSH8lWsjTwJ6/%D0%AE%D1%80%D0%B8%D1%81%D1%82-%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%B8--Help-me--Lawyer-?node-id=357-138&t=P3s11zK8hA6DSUOy-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1) my own prototype for website in Figma
+
+***Test Automation***
+
+- [My first TipeScript+Playwright test](https://github.com/elenka9/my-first-playwright-test)
+
 - find more in my pins
 
 **Languages and Tools:**
