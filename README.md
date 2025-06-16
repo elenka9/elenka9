@@ -27,7 +27,7 @@ Welcome to my github - a place where I explore the magic of code and turn ideas 
 
 ***Test Automation***
 
-- [My first TipeScript+Playwright test](https://github.com/elenka9/playwright_1)
+- [My first TypeScript+Playwright test](https://github.com/elenka9/playwright_1)
 
 - find more in my pins
 
