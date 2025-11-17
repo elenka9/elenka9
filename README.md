@@ -28,6 +28,7 @@ Welcome to my github - a place where I explore the magic of code and turn ideas 
 ***Test Automation***
 
 - [My first TypeScript+Playwright test](https://github.com/elenka9/playwright_1)
+- [Playwright Agents Progect](https://github.com/elenka9/Playwright-Agent-settings)
 
 - find more in my pins
 
